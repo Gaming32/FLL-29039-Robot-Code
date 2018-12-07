@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CogSimProj>
+  <ProjectInfo ID="62c48b0d-07a9-4012-8f84-2f1ed9e0a4b6" ItemID="14" Type="RobotSimProject" Version="2.6.0" />
+  <ProjectData>
+    <Details Creator="" Company="" Description="" Email="" Website="" />
+    <State CurrentEnvironment="268435456" />
+    <Directories>
+      <Directory DirectoryName="Materials" />
+      <Directory DirectoryName="Meshes" />
+      <Directory DirectoryName="Resources">
+        <Dependency Name="ORBIT3R-BOT.rres" ItemID="11" Type="Resource" Path="" Link="False" />
+        <Dependency Name="ORBIT3R-BOT (1).rres" ItemID="13" Type="Resource" Path="" Link="False" />
+      </Directory>
+      <Directory DirectoryName="Scripts" />
+      <Directory DirectoryName="Textures" />
+      <Directory DirectoryName="Environments">
+        <Dependency Name="IntoOrbit.rsim" ItemID="268435456" Type="Environment" Path="" Link="False" />
+      </Directory>
+      <EV3Directory DirectoryName="ORBIT3R-BOT" />
+    </Directories>
+  </ProjectData>
+</CogSimProj>

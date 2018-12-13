@@ -1,0 +1,18 @@
+<PDFInclude>
+	<Include ready="true" comment="true" commentStatus="true">001</Include>
+	<Include ready="true" comment="true" commentStatus="true">M11_EscapeVelocity</Include>
+	<Include ready="true" comment="true" commentStatus="true">M13_Observatory</Include>
+	<Include ready="true" comment="true" commentStatus="true">M10_FoodProduction</Include>
+	<Include ready="true" comment="true" commentStatus="true">M12_SatelliteOrbits</Include>
+	<Include ready="true" comment="true" commentStatus="true">ReturnToBase_M12_M00</Include>
+	<Include ready="true" comment="true" commentStatus="true">Escape_Velocity_2</Include>
+	<Include ready="true" comment="true" commentStatus="true">Observatory_2</Include>
+	<Include ready="true" comment="true" commentStatus="true">ReturnToBase_M10_M00</Include>
+	<Include ready="true" comment="true" commentStatus="true">Food_Production_2</Include>
+	<Include ready="true" comment="true" commentStatus="true">M02_SolarPanelArray</Include>
+	<Include ready="true" comment="true" commentStatus="true">M01_SpaceTravel</Include>
+	<Include ready="true" comment="true" commentStatus="true">M05_Extraction</Include>
+	<Include ready="true" comment="true" commentStatus="true">M03_3DPrinting</Include>
+	<Include ready="true" comment="true" commentStatus="true">Other SPA</Include>
+	<Include ready="true" comment="false">MENU</Include>
+</PDFInclude>
